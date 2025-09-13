@@ -1,0 +1,26 @@
+what is data 
+data can be though,knowlesge,information,record,emotions
+
+
+
+python supports following datatypes
+   1 INT:-
+    a number where +ve or -ve including 0 
+    but without decimal values
+    eg:- 12,345,-875,0,56789242092,
+   2 FLOAT :-
+   a number +ve  or -ve with decimal values 
+    eg:-478.47,749485.3837,-533389.385878
+
+  3 COMPLEX:-  
+  a complex datatype is a combination of real number  and  imaginary number
+     what is ral number :-
+     all intgers and floats are real numbers
+     eg:-35,78.7,938,-9757.87658,8749830,
+      what is imaginary numbers
+      a number prefixed by 1 is called imaginary number
+      i6,-8j,444444444444444.j,76j
+      what is complex number 
+      5=8j,-7-876j,86-7j,0.8=89j
+
+  4 string    
