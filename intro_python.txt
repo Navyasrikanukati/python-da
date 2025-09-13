@@ -1,0 +1,14 @@
+print("navyasr")
+
+
+
+
+my name="navyasri
+my age ="53"
+
+
+what is python is ? 
+   python is high level, 
+   dynamically typed, 
+   general purpose,
+   hybrid languagae,
