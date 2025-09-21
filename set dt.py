@@ -61,3 +61,70 @@ set420={12,23,34,45,56,'A','a',65}
 # print(set420)
 # set420.remove(ord('A'))
 # print(set420)
+#######################3333333
+# set22={'A','B',6,7.5,(1,2,3),"Hello"}
+# print(set22)
+# # print(type(set22))
+# #clear()
+
+# set22.clear()
+# print(set22)
+# print(type(set22))
+#update
+# set22.update('navya')
+#print(set22)
+# set22.update([12,45,67])
+# print(set22)
+#set22.update((True,False,0,1,(2,1,0,)))
+# #pop
+# set22.pop()
+# print(set22)
+
+
+################
+#set operations
+
+# set1={1,2,3}
+# set2={3,4,5}
+# ##union
+# set3=set1 |set2
+# print(set3)
+# #differeceset
+# set4=set1-set2
+# print(set4)
+# set5=set2-set1
+# print(set5)
+# #intersection
+# set6=set1&set2
+# print(set6)
+# #symmetric difference
+# set7=set1^set2
+# print(set7)
+
+######################
+# #isdisjoint
+# set1={11,22,33,44}
+# set2={99,33,10,200}
+# # print(set1.isdisjoint(set2))
+# # #difference_update
+# # set1.difference_update(set2)
+# # print(set1)
+# #intersection_update
+# set1.intersection_update(set2)
+#print(set1)
+#is subset
+# s1={1,2,3,4,5}
+# s2={4,5}
+# s3={3,4,5}
+# s4={9,1,2,3}
+# s5={3,4,5,6,7}
+# print(s1.issubset(s2))
+# print(s2.issubset(s1))
+# print(s3.issubset(s1))
+# print(s5.issubset(s2))
+# print(s5.issubset(s1))
+############symmetric_difference_update
+s11={1,2,3,4}
+s12={4,5,6,7,8}
+s11.symmetric_difference_update(s12)
+print(s11)
