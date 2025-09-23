@@ -45,14 +45,14 @@
 # print(r4[3])
 # print(r4[4])
 
-r5=range (-34,5,2)
-#print(len(r5))
-s1=set(r5)
-print(s1)
-print(max(r5))
-print(min(r5))
-print(sum(r5)/len(r5))
+# r5=range (-34,5,2)
+# #print(len(r5))
+# s1=set(r5)
+# print(s1)
+# print(max(r5))
+# print(min(r5))
+# print(sum(r5)/len(r5))
 
 
-print(r5.count(2))
-print(r5.index(2))
+# print(r5.count(2))
+# print(r5.index(2))
