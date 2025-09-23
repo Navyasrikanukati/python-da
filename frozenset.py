@@ -64,4 +64,44 @@
 #UNION
 s1=frozenset([1,2,3,4])
 s2=frozenset([3,4,5,6])
-print(s1.union(s2))
+# print(s1 | s2)
+# print(s1.union(s2))
+# #intersection 
+# print(s1&s2)
+# print(s1.intersection(s2))
+# #differece 
+# print(s1-s2)
+# print(s1.difference(s2))
+# print(s2-s1)
+# print(s2.difference(s1))
+#symme
+#print(s1^s2)
+f1=frozenset([1,2,3,4,5])
+# print(max(f1))
+# print(min(f1))
+# def avg(fset):
+#     return sum(fset)/len(fset)
+# print(avg(f1))
+
+# import math 
+# print(math.prod(f1))
+# print(len(f1))
+# print(sorted(f1,reverse=True))
+# import statistics
+# print(statistics.mean(f1))
+# print(statistics.median(f1))
+# print(statistics.mode(f1))
+# print(statistics.stdev(f1))
+# print(statistics.variance(f1))
+# import numpy as np 
+# print(np.median(f1))
+# print(np.mean(f1))
+# print(np.std(f1))
+# print(np.var(f1))
+# print(np.prod(f1))
+# print(np.sum(f1))
+# print(np.max(f1))
+# print(np.min(f1))
+# print(np.sort(f1)[::-1])
+# print(np.sort(f1))
+# print(np.size(f1))
