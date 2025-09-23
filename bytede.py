@@ -32,3 +32,26 @@
 # print(b10)
 # print(b10[0])
 # print(b10[-1])
+# b_array1=bytearray('ABCD',"utf-8")
+# print(b_array1)
+# print(b_array1[0])
+
+
+# byte1=bytes(bytes('ABCD',"utf-8"))
+# print(byte1)
+
+
+b_array1=bytearray('ABCD','utf-8')
+print(b_array1)
+b_array1.append(69)
+print(b_array1)
+
+b_array1.remove(65)
+print(b_array1)
+
+
+print(b_array1.lower()[0])
+b_array2=bytearray('1234',"utf-8")
+print(b_array2.title()[::-1].upper()[2])
+
+print(chr(50))
